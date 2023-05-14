@@ -7,7 +7,7 @@
             "request": "attach",
             "program": "enter program name, for example ${workspaceFolder}/a.exe",
             "MIMode": "gdb",
-            "miDebuggerPath": "C:\\mingw64\\bin\\g++.exe",
+            "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
